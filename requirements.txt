@@ -1,0 +1,6 @@
+streamlit==1.38.0
+pandas==2.2.2
+plotly==5.24.1
+google-play-scraper==1.2.7
+nltk==3.9.1
+scikit-learn==1.5.2
